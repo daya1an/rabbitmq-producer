@@ -14,7 +14,7 @@ A simple Spring Boot application that consumes messages from RabbitMQ.
 docker run -d --hostname my-rabbit --name some-rabbit -p 15672: 15672 -p 5672: 5672 rabbitmq:3-managementl
 
 - Rabbit Mq default creds:
-Username: guest
-Password: guest
+* Username: guest
+* Password: guest
 
 [click here to go to producer](https://github.com/daya1an/rabbitmq-consumer)
