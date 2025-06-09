@@ -1,4 +1,4 @@
-# RabbitMQ Consumer
+# RabbitMQ Producer
 
 A simple Spring Boot application that consumes messages from RabbitMQ.
 
